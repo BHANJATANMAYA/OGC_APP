@@ -9,70 +9,84 @@ This application helps streamline internal workflows by recording the movement o
 ## 📱 Features
 
 ### 1. Dashboard
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e7a0a49-ec62-42a4-9701-39bb68370d54" width="250"/>
+</p>
 
 Provides a quick overview of operational activity within the system.
 
-* Displays summary of entries
-* Quick insight into inventory flow
-* Easy navigation to different modules
+- Displays summary of entries  
+- Quick insight into inventory flow  
+- Easy navigation to different modules  
+
+---
 
 ### 2. Inward Management
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6c0e3bb1-899a-4773-93b7-670627748357" width="250"/>
+</p>
 
 Used to record materials entering the inventory.
 
-* Add new inward entries
-* Track supplier deliveries
-* Maintain records of incoming stock
+- Add new inward entries  
+- Track supplier deliveries  
+- Maintain records of incoming stock  
 
-Example data recorded:
-
-* Material name
-* Quantity
-* Supplier
-* Date
+**Example data recorded:**
+- Material name  
+- Quantity  
+- Supplier  
+- Date  
 
 ---
 
 ### 3. Production Tracking
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e8fef1ee-b72e-4bb8-bad6-59fcae75cb15" width="250"/>
+</p>
 
 Tracks how raw materials are used in the production process.
 
-* Record material consumption
-* Monitor production activities
-* Maintain manufacturing logs
+- Record material consumption  
+- Monitor production activities  
+- Maintain manufacturing logs  
 
-Example data recorded:
-
-* Raw material used
-* Quantity used
-* Production date
+**Example data recorded:**
+- Raw material used  
+- Quantity used  
+- Production date  
 
 ---
 
 ### 4. Outward Management
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d820ae90-4fbc-4336-b800-1f8aec5cc643" width="250"/>
+</p>
 
 Tracks finished goods leaving the company.
 
-* Record shipments or dispatch
-* Track outgoing products
-* Maintain delivery logs
+- Record shipments or dispatch  
+- Track outgoing products  
+- Maintain delivery logs  
 
-Example data recorded:
-
-* Product name
-* Quantity shipped
-* Destination
-* Date
+**Example data recorded:**
+- Product name  
+- Quantity shipped  
+- Destination  
+- Date  
 
 ---
 
 ### 5. Search System
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d3b8782-d5d8-4050-86ab-af41c9cb9f1d" width="250"/>
+</p>
 
 Allows users to quickly locate inventory records.
 
-* Search across inward entries
-* Search production logs
-* Search outward dispatch records
+- Search across inward entries  
+- Search production logs  
+- Search outward dispatch records  
 
 ---
 
@@ -153,7 +167,7 @@ Dispatched via Outward
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/ogc_inventory_app.git
+git clone https://github.com/BHANJATANMAYA/OGC_APP.git
 ```
 
 ### 2. Navigate to the project
